@@ -58,8 +58,8 @@ Resume available here:
 assets/resume/Kartikay_Kaushik_Resume.pdf
 
 Contact
-Email: your-email@email.com
+Email: kkaushik@lamar.edu / kartikaykaush@gmail.com
 
-GitHub: https://github.com/YOURUSERNAME
+GitHub: https://github.com/Snoopleloople
 
-LinkedIn: https://linkedin.com/in/YOURPROFILE
+LinkedIn:
