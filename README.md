@@ -11,8 +11,8 @@ AI Assistant Project
 Course Projects
 Technical Documentation
 Career Readiness Materials
-About Me
 
+ABOUT ME
 I am a Computer Science student with interests in:
   Software Development
   Game Development
@@ -20,11 +20,11 @@ I am a Computer Science student with interests in:
   Cloud Computing
   Full-Stack Development
   
-Portfolio Website
+PORTFOLIO WEBSITES
 GitHub Pages URL:
 https://Snoopleloople.github.io/github-portfolio/
 
-Featured Projects
+FEATURED PROJECTS
 1. AI Assistant Project
 Description: AI-powered application developed using modern AI development tools.
 
@@ -34,35 +34,35 @@ Description: Major academic software project.
 3. Personal Project
 Description: Independent software development project.
 
-Technical Skills
+TECHNICAL SKILLS
 
-Programming
+Programming:
   Python
   Java
   C++
   JavaScript
 
-Databases
+Databases:
   MySQL
   MongoDB
 
-Cloud
+Cloud:
   AWS
   Azure
 
-Tools
+Tools:
   Git
   GitHub
   Docker
   GitHub Copilot
   ChatGPT
 
-Resume
+RESUME
 Resume available here:
 
 assets/resume/Kartikay_Kaushik_Resume.pdf
 
-Contact
+CONTACT
 Email: kkaushik@lamar.edu / kartikaykaush@gmail.com
 
 GitHub: https://github.com/Snoopleloople
