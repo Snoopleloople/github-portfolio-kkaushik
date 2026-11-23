@@ -28,6 +28,19 @@ FEATURED PROJECTS
 1. AI Assistant Project
 Description: AI-powered application developed using modern AI development tools.
 
+Project: AI Study Assistant
+Features:
+  1.Upload lecture notes
+  2.Ask questions
+  3.Generate summaries
+  4.Create flashcards
+
+Technologies:
+  Python,
+  Streamlit,
+  LangChain
+  
+
 2. Course Project
 Description: Major academic software project.
 
