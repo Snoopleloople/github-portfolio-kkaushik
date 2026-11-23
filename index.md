@@ -16,6 +16,7 @@ title: Home
 ---
 
 # About Me
+![Professional photograph of Kartikay Kaushik](kkaushik_professional_photo.jpeg)
 
 Hello, my name is **Kartikay Kaushik**, and I am a Video Game Development
 student with a passion for creating engaging and immersive interactive
