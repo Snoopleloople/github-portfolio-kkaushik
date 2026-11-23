@@ -12,17 +12,17 @@ Course Projects
 Technical Documentation
 Career Readiness Materials
 About Me
-I am a Computer Science student with interests in:
 
-Software Development
-Artificial Intelligence
-Cloud Computing
-Full-Stack Development
-Cybersecurity
+I am a Computer Science student with interests in:
+  Software Development
+  Game Development
+  Artificial Intelligence
+  Cloud Computing
+  Full-Stack Development
+  
 Portfolio Website
 GitHub Pages URL:
-
-https://YOURUSERNAME.github.io/github-portfolio/
+https://Snoopleloople.github.io/github-portfolio/
 
 Featured Projects
 1. AI Assistant Project
@@ -35,23 +35,28 @@ Description: Major academic software project.
 Description: Independent software development project.
 
 Technical Skills
+
 Programming
-Python
-Java
-C++
-JavaScript
+  Python
+  Java
+  C++
+  JavaScript
+
 Databases
-MySQL
-MongoDB
+  MySQL
+  MongoDB
+
 Cloud
-AWS
-Azure
+  AWS
+  Azure
+
 Tools
-Git
-GitHub
-Docker
-GitHub Copilot
-ChatGPT
+  Git
+  GitHub
+  Docker
+  GitHub Copilot
+  ChatGPT
+
 Resume
 Resume available here:
 
