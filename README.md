@@ -22,7 +22,7 @@ I am a Computer Science student with interests in:
   
 PORTFOLIO WEBSITES
 GitHub Pages URL:
-https://Snoopleloople.github.io/github-portfolio/
+[https://Snoopleloople.github.io/github-portfolio/](https://snoopleloople.github.io/github-portfolio-kkaushik/)
 
 FEATURED PROJECTS
 1. AI Assistant Project
